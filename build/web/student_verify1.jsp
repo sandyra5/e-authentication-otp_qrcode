@@ -1,8 +1,3 @@
-<%-- 
-    Document   : du_signin
-    Created on : 13 Jan, 2021, 11:42:02 AM
-    Author     : JAVA-JP
---%>
 
 <%@page import="Action.QRCodeExtract"%>
 <%@page import="java.io.FileReader"%>

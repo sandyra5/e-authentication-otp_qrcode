@@ -50,4 +50,3 @@ public class QRCodeExtract {
         return qrCodeResult.getText();
     }
 }
-

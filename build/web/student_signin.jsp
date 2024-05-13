@@ -1,8 +1,4 @@
-<%-- 
-    Document   : du_signin
-    Created on : 13 Jan, 2021, 11:42:02 AM
-    Author     : JAVA-JP
---%>
+
 
 <%@page import="java.security.SecureRandom"%>
 <%@page import="java.util.Random"%>

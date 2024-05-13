@@ -1,8 +1,4 @@
-<%-- 
-    Document   : index
-    Created on : 19 May, 2021, 10:44:56 AM
-    Author     : JAVA-JP
---%>
+
 
 <%@page import="java.sql.ResultSet"%>
 <%@page import="DBconnection.SQLconnection"%>

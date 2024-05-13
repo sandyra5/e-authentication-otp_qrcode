@@ -1,8 +1,4 @@
-<%-- 
-    Document   : index
-    Created on : 19 May, 2021, 10:44:56 AM
-    Author     : JAVA-JP
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -79,7 +75,7 @@
                     <div class="bannerside">
                         <div class="ce">
                             <br>
-                            <center><h1 style="color: white;font-weight: 600">E-Authentication System with QR Code & OTP</h1></center>
+                            <center><h1 style="color: white;font-weight: 600">AuthLock</h1></center>
                         </div>                        								
                         <!--  // End Left Side // -->
                         <!--  // End Right Side // -->
@@ -130,7 +126,7 @@
                     <div class="Contact_sec" id="contact">
                         <footer>
                             <div class="Cntr">                
-                                <p> © 2021</p>
+                                <p> © 2024</p>
                             </div>
                         </footer>
                     </div>
